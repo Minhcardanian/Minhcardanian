@@ -1,5 +1,5 @@
 # 💫 About Me:
-Great interest in Cardano Blockchain field, educational visualization material. Application projects for organizations (dormitory, govenancing,...) 
+Great interest in Cardano Blockchain field (Aiken, Plutus), educational visualization material. Application projects for organizations (dormitory, govenancing,...) 
 
 
 ## 🌐 Socials:
