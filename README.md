@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🦁 About Me:
 I'm deeply interested in the Cardano Blockchain ecosystem (Aiken, Plutus, Marlowe, CompactC) and creating educational visualization materials. My focus includes application projects for organizations (e.g., dormitory management, governance systems).
 
 ---
