@@ -1,11 +1,12 @@
-# 🦁 About Me:
+# 💫 About Me:
 I'm deeply interested in the Cardano Blockchain ecosystem (Aiken, Plutus, Marlowe, CompactC) and creating educational visualization materials. My focus includes application projects for organizations (e.g., dormitory management, governance systems).
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bqminhvn)
-[![Youtube](https://www.youtube.com/@DirectedbyMinhBui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bqminhvn)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@DirectedbyMinhBui)
+
 ---
 
 # 💻 Tech Stack:
