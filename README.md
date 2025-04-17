@@ -5,11 +5,11 @@
 
 ---
 
-### 🔥 Languages I Use the Most
+### 🔥 Most use languages
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minhcardanian&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minhcardanian&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Minhcardanian&theme=tokyonight&utcOffset=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minhcardanian&theme=vue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Minhcardanian&theme=vue" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Minhcardanian&theme=vue&utcOffset=7" />
 </p>
 
 ---
