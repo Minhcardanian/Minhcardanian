@@ -1,7 +1,17 @@
-<h2 align="center">Hi, I'm Minh Bui 👋</h2>
-<p align="center">
-  <strong>Smart contract builder | Cardano governance contributor | Fullstack experimenter</strong>
-</p>
+<table>
+  <tr>
+    <td>
+      <h2>Hello, I'm Minh Bui</h2>
+      <ul>
+        <li>🔧 Cardano DRep & Smart Contract Developer</li>
+        <li>🧠 Currently focused on Aiken, Plutus, Marlowe</li>
+        <li>📊 Governance modeling & proposal visualization</li>
+        <li>💻 Building fullstack tools for real-world systems</li>
+      </ul>
+    </td>
+    
+  </tr>
+</table>
 
 ---
 
@@ -46,10 +56,19 @@
 
 ### 📈 My GitHub Stats
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Minhcardanian&theme=gruvbox" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Minhcardanian&theme=gruvbox" width="100%" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minhcardanian&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Minhcardanian&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhcardanian&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/lines-of-code?username=Minhcardanian&theme=gruvbox" width="70%" />
 </p>
 
 ---
@@ -58,13 +77,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Minhcardanian&theme=gruvbox&margin-w=10&margin-h=15&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
-
----
-
-### 🗕️ GitHub Contribution Calendar
-<p align="center">
-  <img src="https://ghchart.rshah.org/FFB300/Minhcardanian" alt="Minhcardanian's GitHub chart" />
 </p>
 
 ---
