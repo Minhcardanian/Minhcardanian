@@ -15,9 +15,10 @@
 ### 🏷️ Badges
 
 <p align="center">
-  <img src="./assets/im_BG.png" alt="Intersect Member Badge" width="100" style="margin-right: 16px;" />
-  <img src="./assets/IFM-removebg-preview.png" alt="Founding Member Badge" width="100" />
+  <img src="./im_BG.png" alt="Intersect Member Badge" width="200" style="margin-right:16px;" />
+  <img src="./IFM-removebg-preview.png" alt="Founding Member Badge" width="200" />
 </p>
+
 
 ---
 
