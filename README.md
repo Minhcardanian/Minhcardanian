@@ -12,7 +12,7 @@
   </tr>
 </table>
 
-### 🏷️ Badges
+###  Badges
 
 <p align="center">
   <img src="./im_BG.png" alt="Intersect Member Badge" width="200" style="margin-right:16px;" />
@@ -22,7 +22,7 @@
 
 ---
 
-### 🔥 Languages I Use the Most
+###  Languages I Use the Most
 
 <p>
   <img src="https://img.shields.io/badge/Haskell-%235e5086.svg?style=flat&logo=haskell&logoColor=white"/>
@@ -36,7 +36,7 @@
 
 ---
 
-### 🧠 My Developer Stack
+###  Dev_Stack
 
 ```mermaid
 mindmap
