@@ -17,6 +17,7 @@
 <p align="center">
   <img src="./im_BG.png" alt="Intersect Member Badge" width="200" style="margin-right:16px;" />
   <img src="./IFM-removebg-preview.png" alt="Founding Member Badge" width="200" />
+  <img src="./akb_bg.png" alt="Aiken Emurgo SCD" width="200" />
 </p>
 
 
