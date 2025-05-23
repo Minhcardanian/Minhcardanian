@@ -1,18 +1,6 @@
-<table>
-  <tr>
-    <td>
-      <h2>Hello, I’m Minh Bui</h2>
-      <ul>
-        <li>🔧 Cardano DRep & Smart Contract Developer</li>
-        <li>🧠 Currently focused on Aiken, Plutus, Marlowe</li>
-        <li>📊 Governance modeling & proposal visualization</li>
-        <li>💻 Building fullstack tools for real-world systems</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
-###  Badges
+
+
 
 <p align="center">
   <img src="./im_BG.png" alt="Intersect Member Badge" width="200" style="margin-right:16px;" />
