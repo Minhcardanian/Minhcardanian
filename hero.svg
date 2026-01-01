@@ -1,0 +1,155 @@
+<!-- assets/hero.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+  <defs>
+    <!-- background -->
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0b0f14"/>
+      <stop offset="1" stop-color="#070a0e"/>
+    </linearGradient>
+
+    <!-- subtle vignette -->
+    <radialGradient id="vig" cx="50%" cy="35%" r="70%">
+      <stop offset="0" stop-color="#111827" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- tile pattern (ceramic blocks) -->
+    <pattern id="tiles" width="22" height="22" patternUnits="userSpaceOnUse">
+      <rect x="0" y="0" width="22" height="22" fill="#0b1220"/>
+      <rect x="1" y="1" width="20" height="20" fill="#0a111d"/>
+      <path d="M0 22H22" stroke="#111827" stroke-opacity="0.35" />
+      <path d="M22 0V22" stroke="#111827" stroke-opacity="0.35" />
+    </pattern>
+
+    <!-- crisp brutalist line -->
+    <filter id="crisp">
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 1"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+
+  <!-- slab -->
+  <rect width="1200" height="360" fill="url(#bg)"/>
+  <rect width="1200" height="360" fill="url(#vig)"/>
+
+  <!-- top thin architectural rules -->
+  <rect x="80" y="52" width="1040" height="1" fill="#1f2937"/>
+  <rect x="80" y="104" width="1040" height="1" fill="#111827"/>
+
+  <!-- radial dash field (inspired by your reference) -->
+  <g transform="translate(260,220)" opacity="0.9" filter="url(#crisp)">
+    <!-- generate rays manually (angles) -->
+    <!-- each ray is a short dash, repeated outward -->
+    <g stroke="#e5e7eb" stroke-width="2" stroke-linecap="butt" opacity="0.85">
+      <!-- helper: a set of dashes along a line, rotated -->
+      <!-- 0 deg -->
+      <g transform="rotate(0)">
+        <line x1="40" y1="0" x2="64" y2="0"/>
+        <line x1="92" y1="0" x2="116" y2="0"/>
+        <line x1="144" y1="0" x2="168" y2="0"/>
+        <line x1="196" y1="0" x2="220" y2="0"/>
+        <line x1="248" y1="0" x2="272" y2="0"/>
+        <line x1="300" y1="0" x2="324" y2="0"/>
+        <line x1="352" y1="0" x2="376" y2="0"/>
+        <line x1="404" y1="0" x2="428" y2="0"/>
+      </g>
+      <!-- 15 deg -->
+      <g transform="rotate(15)">
+        <line x1="40" y1="0" x2="64" y2="0"/>
+        <line x1="92" y1="0" x2="116" y2="0"/>
+        <line x1="144" y1="0" x2="168" y2="0"/>
+        <line x1="196" y1="0" x2="220" y2="0"/>
+        <line x1="248" y1="0" x2="272" y2="0"/>
+        <line x1="300" y1="0" x2="324" y2="0"/>
+      </g>
+      <!-- 30 deg -->
+      <g transform="rotate(30)">
+        <line x1="40" y1="0" x2="64" y2="0"/>
+        <line x1="92" y1="0" x2="116" y2="0"/>
+        <line x1="144" y1="0" x2="168" y2="0"/>
+        <line x1="196" y1="0" x2="220" y2="0"/>
+        <line x1="248" y1="0" x2="272" y2="0"/>
+      </g>
+      <!-- 45 deg -->
+      <g transform="rotate(45)">
+        <line x1="40" y1="0" x2="64" y2="0"/>
+        <line x1="92" y1="0" x2="116" y2="0"/>
+        <line x1="144" y1="0" x2="168" y2="0"/>
+        <line x1="196" y1="0" x2="220" y2="0"/>
+      </g>
+      <!-- 60 deg -->
+      <g transform="rotate(60)">
+        <line x1="40" y1="0" x2="64" y2="0"/>
+        <line x1="92" y1="0" x2="116" y2="0"/>
+        <line x1="144" y1="0" x2="168" y2="0"/>
+        <line x1="196" y1="0" x2="220" y2="0"/>
+      </g>
+      <!-- 75 deg -->
+      <g transform="rotate(75)">
+        <line x1="40" y1="0" x2="64" y2="0"/>
+        <line x1="92" y1="0" x2="116" y2="0"/>
+        <line x1="144" y1="0" x2="168" y2="0"/>
+      </g>
+      <!-- 90 deg -->
+      <g transform="rotate(90)">
+        <line x1="40" y1="0" x2="64" y2="0"/>
+        <line x1="92" y1="0" x2="116" y2="0"/>
+        <line x1="144" y1="0" x2="168" y2="0"/>
+        <line x1="196" y1="0" x2="220" y2="0"/>
+        <line x1="248" y1="0" x2="272" y2="0"/>
+      </g>
+      <!-- mirror side -->
+      <g transform="scale(-1,1)">
+        <g transform="rotate(10)">
+          <line x1="40" y1="0" x2="64" y2="0"/>
+          <line x1="92" y1="0" x2="116" y2="0"/>
+          <line x1="144" y1="0" x2="168" y2="0"/>
+          <line x1="196" y1="0" x2="220" y2="0"/>
+          <line x1="248" y1="0" x2="272" y2="0"/>
+          <line x1="300" y1="0" x2="324" y2="0"/>
+        </g>
+        <g transform="rotate(35)">
+          <line x1="40" y1="0" x2="64" y2="0"/>
+          <line x1="92" y1="0" x2="116" y2="0"/>
+          <line x1="144" y1="0" x2="168" y2="0"/>
+          <line x1="196" y1="0" x2="220" y2="0"/>
+        </g>
+        <g transform="rotate(70)">
+          <line x1="40" y1="0" x2="64" y2="0"/>
+          <line x1="92" y1="0" x2="116" y2="0"/>
+          <line x1="144" y1="0" x2="168" y2="0"/>
+        </g>
+      </g>
+    </g>
+    <!-- center mark (tiny) -->
+    <circle cx="0" cy="0" r="2.2" fill="#e5e7eb" opacity="0.6"/>
+  </g>
+
+  <!-- ceramic base strip -->
+  <rect x="80" y="250" width="1040" height="70" fill="url(#tiles)" opacity="0.95"/>
+  <rect x="80" y="250" width="1040" height="70" fill="none" stroke="#1f2937"/>
+
+  <!-- title + subtitle (brutalist typography) -->
+  <g fill="#e5e7eb" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    <text x="600" y="86" font-size="28" text-anchor="middle" letter-spacing="1.5">MINH BÙI (MARK)</text>
+    <text x="600" y="126" font-size="13" text-anchor="middle" fill="#9ca3af">
+      BLOCKCHAIN & SYSTEMS DEVELOPER · CARDANO GOVERNANCE (DREP, MILESTONE REVIEWER)
+    </text>
+    <text x="600" y="146" font-size="12" text-anchor="middle" fill="#6b7280">
+      VERIFIABLE SYSTEMS · EXECUTABLE POLICY · REPRODUCIBLE INFRASTRUCTURE
+    </text>
+  </g>
+
+  <!-- small “tile labels” on the ceramic base -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace" font-size="12" fill="#cbd5e1">
+    <text x="110" y="292">GOVERNANCE</text>
+    <text x="110" y="312" fill="#94a3b8">DRep · Catalyst · Auditability</text>
+
+    <text x="430" y="292">LOGIC → ENFORCEMENT</text>
+    <text x="430" y="312" fill="#94a3b8">Aiken · Plutus · Constraints</text>
+
+    <text x="810" y="292">REPRODUCIBLE INFRA</text>
+    <text x="810" y="312" fill="#94a3b8">Docker · CI · Testnets</text>
+  </g>
+</svg>
